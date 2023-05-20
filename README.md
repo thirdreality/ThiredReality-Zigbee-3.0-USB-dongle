@@ -1,4 +1,4 @@
-# ThireaReality Dongle
+# ThireaReality Zigbee 3.0 USB Dongle
 
 ## Coordinator firmware
     1.The firmware contains partition_cfg_2M.toml,bl702_dongle_vx.x.x.x.xx.bin and bl_factory_params_IoTKitA_32M.dts.
