@@ -9,15 +9,15 @@
     1. 
 
 ## Flashing instructions
-    1.Download the Firmware.zip.
+    1.Download the Firmware-xxx.zip.
 
-    2.Download the BouffaloLabDevCube-v1.8.2.zip.
+    2.Download the BouffaloLabDevCube--v1.7.3-rc2.zip.
     
     3.Press button and power up the device.
     
     4.Open the flash tool with BLDevCub.exe
     
-    5.Click Refresh and Choose right port, choose chip erase true and choose right three document.
+    5.Click Refresh and Choose right port, choose chip erase true and choose right three file.
     
     6.Click Create & Download button. 
 
