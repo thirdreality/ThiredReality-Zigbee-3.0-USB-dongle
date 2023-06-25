@@ -39,5 +39,4 @@ NOTE: This equipment has been tested and found to comply with the li
 
 Important Note:
 ## Radiation Exposure Statement
-This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance 20cm between the radiator and your body. 
-This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
+This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
