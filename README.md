@@ -3,12 +3,13 @@
 ## Coordinator firmware
     1.The firmware contains partition_cfg_2M.toml,bl702_dongle_vx.x.x.x.xx.bin and bl_factory_params_IoTKitA_32M.dts.
 ## Notice
-    1. 
+    1.Please refer to the doc in the Doc-Flash-Guide directory for flash burning guidance.
 
 ## Function Description
     1. 
 
 ## Flashing instructions
+    In ThirdReality-Zigbee-3.0-USB-dongle-firmware-flashing-0-1.doc
     1.Download the Firmware-xxx.zip.
 
     2.Download the BouffaloLabDevCube--v1.7.3-rc2.zip.
