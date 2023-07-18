@@ -1,26 +1,19 @@
 # ThireaReality Zigbee 3.0 USB Dongle
 
 ## Coordinator firmware
-    1.The firmware contains partition_cfg_2M.toml,bl702_dongle_vx.x.x.x.xx.bin and bl_factory_params_IoTKitA_32M.dts.
+    1.The firmware contains partition_cfg_2M.toml,R3_706_dongle.bin and bl_factory_params_IoTKitA_32M.dts.
 ## Notice
     1.Please refer to the doc in the Doc-Flash-Guide directory for flash burning guidance.
 
 ## Function Description
-    1. 
+    1. Support smart home platforms in Home Assistant, like Zigbee Home Automation and Zigbee2MQTT.
+    2. Base on BL706.
+    3. USB connected adapter.
 
-## Flashing instructions
-    In ThirdReality-Zigbee-3.0-USB-dongle-firmware-flashing-0-1.doc
-    1.Download the Firmware-xxx.zip.
-
-    2.Download the BouffaloLabDevCube--v1.7.3-rc2.zip.
-    
-    3.Press button and power up the device.
-    
-    4.Open the flash tool with BLDevCub.exe
-    
-    5.Click Refresh and Choose right port, choose chip erase true and choose right three file.
-    
-    6.Click Create & Download button. 
+## Instructions for use
+    BL706 based USB connected.
+    1. Work with Zigbee Home Automation: https://www.home-assistant.io/integrations/zha
+    2. Work with Zigbee2MQTT: https://www.zigbee2mqtt.io/guide/getting-started/
 
 ## Buy
     1.link:
