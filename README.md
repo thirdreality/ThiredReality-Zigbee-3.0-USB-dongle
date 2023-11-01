@@ -34,3 +34,15 @@ NOTE: This equipment has been tested and found to comply with the li
 Important Note:
 ## Radiation Exposure Statement
 This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This transmitter must not be co-located or operating in conjunction with any other antenna or transmitter.
+
+## ISED Statement
+‐ English: This device complies with Industry Canada license‐exempt RSS standard(s).Operation is subject to the following two conditions: (1) This device may not cause interference, and (2) This device must accept any interference, including interference that may cause undesired operation of the device.The digital apparatus complies with Canadian CAN ICES‐3 (B)/NMB‐3(B).
+
+‐ French:Le présentappareilestconforme aux CNR d'Industrie Canada applicables aux appareils
+radio exempts de licence. L'exploitationestautorisée aux deux conditions suivantes: (1) l'appareil ne doit pas produire de brouillage, et (2) l'utilisateur de l'appareildoit accepter tout brouillageradioélectriquesubi, mêmesi le brouillageest susceptible d'encompromettre le fonctionnement.
+
+## Radiation Exposure Statement
+This equipment complies with Canada radiation exposure limits set forth for an uncontrolled environment. This equipment should be installed and operated with minimum distance 20cm between the radiator & your body. 
+
+## Déclarationd'exposition aux radiations
+Cetéquipementestconforme Canada limitesd'exposition aux radiations dans un environnement non contrôlé. Cetéquipementdoitêtreinstallé et utilisé à distance minimum de 20cm entre le radiateur et votre corps. 
