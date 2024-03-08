@@ -3,7 +3,7 @@
 ## Coordinator firmware
     1.The firmware contains partition_cfg_2M.toml,R3_706_dongle.bin and bl_factory_params_IoTKitA_32M.dts.
 ## Notice
-    1.Please refer to the doc in the Doc-Flash-Guide directory for flash burning guidance.
+    1.Please refer to the doc in the Doc-Flash-Guide directory for flash burning guidance(If you are using Ubuntu or Mac OS, please use flash tool with 1.8.4 and pay attention to selecting the port  and pressing pin to power on).
 
 ## Function Description
     1. Support smart home platforms in Home Assistant, like Zigbee Home Automation and Zigbee2MQTT.
